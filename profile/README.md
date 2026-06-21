@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="Foto/banner.png" height="350">
+<a href="https://jkt48-stream.vercel.app">
+    <img src="Foto/banner.png" height="350">
+</a>
 
 # JKT48 Stream
 
