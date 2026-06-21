@@ -15,8 +15,6 @@
 
 [Visit Website](https://jkt48-stream.vercel.app) • [About](#about) • [Disclaimer](#disclaimer)
 
-</div>
-
 ---
 
 ## About
@@ -108,8 +106,6 @@ Website: https://jkt48-stream.vercel.app
 *(Add organization social media links here, e.g. Instagram, TikTok, X)*
 
 ---
-
-<div align="center">
 
 *Built by fans, for fans — JKT48 Stream.*
 
