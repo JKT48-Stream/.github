@@ -99,15 +99,7 @@ JKT48 Stream is an independent, fan-made project and is not officially affiliate
 
 ---
 
-## Connect
-
-Website: https://jkt48-stream.vercel.app
-
-*(Add organization social media links here, e.g. Instagram, TikTok, X)*
-
----
-
-*Built by fans, for fans — JKT48 Stream.*
+*Built by fans, for fans - JKT48 Stream.*
 
 [Back to Top](#jkt48-stream)
 
